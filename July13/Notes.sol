@@ -7,7 +7,7 @@
 */ 
 
 /**
- ==* NFT *== 
+ ==* Non-Fungible Token (NFT) *== 
      └―> unique digital assets stored on a blockchain, representing ownership of various items like art, music, videos, to in-game items, and serve as a digital record of ownership, and more. They cannot be replaced and have a unique identification code and metadata for proof of ownership. 
 
  ==* ERC721 *== 
