@@ -66,6 +66,7 @@ contract NFTColl is ERC721Enumerable, Ownable {
         require(sent, "Failed to send Ether");
     }
 
+    //These two functions are special functions in Solidity.
     //The receive() function is called when ether is sent to the contract.
     receive() external payable {}
 
