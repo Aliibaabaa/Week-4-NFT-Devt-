@@ -73,3 +73,8 @@ contract NFTColl is ERC721Enumerable, Ownable {
     //The fallback() function is called when the contract is called without a function name
     fallback() external payable {}
 }
+
+/**
+ * For your afternoon activity, your task is to convert the NFTCollection that we previously created on Remix IDE to Hardhat.
+ * Additionally, be prepared to present your work and demonstrate the processes of minting and selling your NFT after.
+ */
