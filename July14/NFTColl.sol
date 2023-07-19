@@ -1,3 +1,20 @@
+/**
+ * Additional Resources:
+    https://docs.opensea.io/
+    https://docs.opensea.io/docs/metadata-standards
+
+==* InterPlanetary File System (IPFS) *== 
+     └―> decentralized file storage system that allows you to store and share files on a peer-to-peer network. 
+     └―> allows us to upload, store and manage files on the blockchain.
+
+==* Metadata *== 
+     └―> holds all the information about your image or NFT.
+
+==* Opensea Metadata *== 
+     └―> a popular NFT marketplace that has its own metadata standard. The OpenSea metadata standard is designed to be easy to use and understand.
+ */
+
+/* NFT Collection smart contract should look like:  */
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
@@ -75,6 +92,6 @@ contract NFTColl is ERC721Enumerable, Ownable {
 }
 
 /**
- * For your afternoon activity, your task is to convert the NFTCollection that we previously created on Remix IDE to Hardhat.
- * Additionally, be prepared to present your work and demonstrate the processes of minting and selling your NFT after.
+ * ===== ACTIVITY =====
+ * For your afternoon activity, your task is to convert the NFTCollection that we previously created on Remix IDE to Hardhat. Additionally, be prepared to present your work and demonstrate the processes of minting and selling your NFT after.
  */

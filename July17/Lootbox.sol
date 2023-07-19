@@ -66,3 +66,9 @@ contract Lootbox is ERC721URIStorage {
         return tokenId;
     }
 }
+
+/**
+ *  ===== ACTIVITY: ======
+ * Generate 20 unique mystery items by connecting personal elements to visual representations. Ensure each item reflects your individual interests, hobbies, or characteristics. (Ex. generate an image of a pixelated dog if you love dogs) Enhance the items' value and storytelling by including descriptive metadata, offering users extra information and context for each item.
+ *
+ */
