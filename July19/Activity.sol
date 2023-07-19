@@ -1,3 +1,5 @@
+// *** Note: Create separate smart contract for each item *** //
+
 /** 
 1.] 
     > Complete the code below: 
