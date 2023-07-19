@@ -15,5 +15,7 @@
 
  ==* ERC1155 *== 
      └―> ERC-1155 is a multi-token standard on the Ethereum blockchain that allows for the creation of both fungible and non-fungible tokens (NFTs). 
+     
  */
+
 
